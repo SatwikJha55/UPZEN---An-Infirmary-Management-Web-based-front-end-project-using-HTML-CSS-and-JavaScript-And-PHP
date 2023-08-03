@@ -1,0 +1,5 @@
+UPZEN is a comprehensive Infirmary Management Web-based project that seamlessly integrates HTML, CSS, JavaScript, and PHP to offer a robust and user-friendly solution for healthcare facilities. The front-end, designed with HTML and CSS, provides an intuitive and visually appealing interface, ensuring easy navigation and a consistent experience across devices.
+JavaScript enhances interactivity, enabling dynamic features such as real-time form validation and interactive elements. Meanwhile, PHP empowers the back-end functionalities, enabling efficient data processing, patient record management, appointment scheduling, and generating insightful reports for streamlined administration.
+UPZEN ultimately optimizes infirmary operations, delivering an efficient and accessible platform for healthcare management.
+
+![banner-2-img](https://github.com/SatwikJha55/UPZEN---An-Infirmary-Management-Web-based-front-end-project-using-HTML-CSS-and-JavaScript-And-PHP/assets/137987283/f5a0469e-a039-4d7c-9c0c-235b8d7595e1)
